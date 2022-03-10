@@ -10,10 +10,12 @@ eg:
 
 Demonstrating how Dynamic parameters work in Python:
 
-Sample code:
+Sample function with dynamic parameters and positional parameters:
 ![image](https://user-images.githubusercontent.com/75313303/157645757-655b2e18-4ff4-4687-9eb1-0244e3e8178f.png)
 # *args parameter is to receive n-number of positional arguments
 # **kwargs parameter is to receive n-number of key-value pairs
+# *args = list
+# **kwargs = dictionary
 
 Calling the sample function:
 ![image](https://user-images.githubusercontent.com/75313303/157646114-9837ed14-de19-4496-b276-45e769a328b5.png)
